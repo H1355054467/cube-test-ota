@@ -1,6 +1,6 @@
 {
-    "sha512": "3fbb7ee3f1e430f98f227d972e56c112cb66fec9ab3db755cd6e77891a4d3d8c504275b9d80215dd4c81a101abef7d2f754d2e2f3ffe1046f65517e6dda16c28",
+    "sha512": "65a7c2fae50678197fb71cc8727b9675c9c6e5f4f3e263dcf6a63686b80140f61d479ef92898923fd315346b7ba189f23d1af984a3b816e917d859ff29cd2249",
     "compatible": "cube-vm-x86_64",
-    "version": "2.15.0",
-    "uri": "https://github.com/H1355054467/cube-test-ota/releases/download/v2.15.0/sdcard.raucb"
+    "version": "2.15.1",
+    "uri": "https://github.com/H1355054467/cube-test-ota/releases/download/v2.15.1/sdcard.raucb"
 }
