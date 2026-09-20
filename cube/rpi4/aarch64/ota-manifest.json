@@ -1,6 +1,0 @@
-{
-    "sha512": "5e5ea3ca6982fdba6d134169967653996a21772a9f21a036a1777f025ef665c1f6603a4d40c1134b23a6ba6514f2ae02f9240a1b70124729124a5ed56c45eb3e",
-    "compatible": "cube-rpi4-aarch64",
-    "version": "2.13.1",
-    "uri": "https://github.com/eWeLinkCUBE/CUBE-OS/releases/download/v2.13.1/raspberrypi4_64_prod.raucb"
-}
