@@ -2,7 +2,7 @@
     "sha512": "e77b95238bb14f75cf13715d4f3fb840f9de3f29f4f1e53f39e41e7770c8c20d33b7948b0337de76082f6c937903b1ac175af1068aa0c9b3ea2056c9d289b406",
     "compatible": "cube-vm-x86_64",
     "version": "2.15.1",
-    "uri": "https://github.com/H1355054467/cube-test-ota/releases/download/v2.15.1/sdcard.raucb",
+    "uri": "https://github.com/H1355054467/cube-test-ota/releases/download/v{version}/sdcard.raucb",
     "whitelist": [],
     "versionThresholds": {}
 }
