@@ -3,7 +3,9 @@
     "compatible": "cube-vm-x86_64",
     "version": "2.15.3",
     "uri": "https://github.com/H1355054467/cube-test-ota/releases/download/v{version}/sdcard.raucb",
-    "whitelist": [],
+    "whitelist": [
+        "72bew59ey5"
+    ],
     "versionThresholds": {
         "2": {
             "version": "2.15.2",
