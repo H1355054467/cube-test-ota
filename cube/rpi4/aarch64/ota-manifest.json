@@ -2,7 +2,7 @@
     "sha512": "9f3f73c0e0f75279b685619fa4e9b7b2f638c45495198f448129c29a860937896bea24866b3ec8b6eaef633b39e3e02ffd71b1254810f1415df6a062b68945c0",
     "compatible": "cube-rpi4-aarch64",
     "version": "2.15.1",
-    "uri": "https://github.com/H1355054467/cube-test-ota/releases/download/v{version}/raspberrypi4_64_prod.raucb",
+    "uri": "https://github.com/H1355054467/cube-test-ota/releases/download/v{version}/raspberrypi4_64_dev.raucb",
     "whitelist": [],
     "versionThresholds": {}
 }
